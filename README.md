@@ -1,8 +1,8 @@
-# Frontend Mentor - Calculator app
+# Frontend Mentor - Calculator app of Calculatore app with changes.
 
 This is a solution to the [Calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-# Table of contents
+# Table of contents.
 
 - [Frontend Mentor - Calculator appt page solution](#frontend-mentor---calculator-app)
   - [Table of contents](#table-of-contents)
